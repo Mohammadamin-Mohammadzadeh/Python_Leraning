@@ -1,6 +1,6 @@
 Number=int(input ("Please enter Number of People :"))
 Survey={}
-action=history=Romance=adventure=comedy=horror=romance=0
+action=history=romance=adventure=comedy=horror=0
 
 for i in range(Number):
     name = input("Please enter your name :")
